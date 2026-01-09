@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: spring-boot-app
-        image: osmanshaikh/spring-boot-app:1
+        image: osmanshaikh/spring-boot-app:3
         ports:
         - containerPort: 8080
